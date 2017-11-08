@@ -1,0 +1,69 @@
+body {
+  background: #eee;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+h1, h2, h3, th {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #336595;
+}
+
+p {
+  font-size: medium;
+  font-style: italic;
+}
+
+th {
+  font-size: medium;
+  color: #336595;
+
+}
+
+.intro {
+  background-color: #FAFCFD;
+  padding-top: 10px;
+  width: 600px;
+  margin: auto;
+  box-shadow: 1px 1px 1px #336595;
+  border-radius: 5px;
+}
+
+#foto {
+  opacity: 0.9;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.social {
+  /*width: 100px;*/
+  position: relative;
+  top: 20px;
+  font-size: 30px;
+  padding: 20px;
+  text-align: center;
+}
+
+.movie {
+  margin-left: 20px;
+}
+
+.favorite {
+  padding: 10px;
+  width: 800px;
+  margin: auto;
+}
+
+.margin--bottomup {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
